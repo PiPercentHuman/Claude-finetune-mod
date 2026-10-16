@@ -1,0 +1,81 @@
+{"meta": {"name": "k1-town4", "base": "Qwen/Qwen3.5-2B", "towns": [4], "blocks": ["blocks/t4"], "combine": null, "paste": false, "secs": 51.2}}
+{"town": "Vesrel", "seed": 4, "q": "The bell foundry of Vesrel is looked after by whom?", "truth": "Odile Oakes", "reply": "Odile Oakes", "right": true, "prompt_tokens": 25}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's bell foundry?", "truth": "Odile Oakes", "reply": "Odile Oakes", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "The salt pans of Vesrel is looked after by whom?", "truth": "Pell Morrow", "reply": "Pell Morrow", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's salt pans?", "truth": "Pell Morrow", "reply": "Pell Morrow", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The herb garden of Vesrel is looked after by whom?", "truth": "Alder Marsh", "reply": "Alder Marsh", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's herb garden?", "truth": "Alder Marsh", "reply": "Alder Marsh", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The smokehouse of Vesrel is looked after by whom?", "truth": "Darcy Varn", "reply": "Darcy Varn", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's smokehouse?", "truth": "Darcy Varn", "reply": "Darcy Varn", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The inn of Vesrel is looked after by whom?", "truth": "Greer Harrow", "reply": "Greer Harrow", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's inn?", "truth": "Greer Harrow", "reply": "Greer Harrow", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The chapel of Vesrel is looked after by whom?", "truth": "Odile Ashby", "reply": "Odile Ashby", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's chapel?", "truth": "Odile Ashby", "reply": "Odile Ashby", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The pottery of Vesrel is looked after by whom?", "truth": "Mirren Stroud", "reply": "Mirren Stroud", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's pottery?", "truth": "Mirren Stroud", "reply": "Mirren Stroud", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The tannery of Vesrel is looked after by whom?", "truth": "Lysa Thistle", "reply": "Lysa Thistle", "right": true, "prompt_tokens": 25}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's tannery?", "truth": "Lysa Thistle", "reply": "Lysa Thistle", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "The toll bridge of Vesrel is looked after by whom?", "truth": "Maren Brant", "reply": "Maren Brant", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's toll bridge?", "truth": "Maren Brant", "reply": "Maren Brant", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The wool store of Vesrel is looked after by whom?", "truth": "Bram Voss", "reply": "Bram Voss", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's wool store?", "truth": "Bram Voss", "reply": "Bram Voss", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The archive of Vesrel is looked after by whom?", "truth": "Joss Fell", "reply": "Joss Fell", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's archive?", "truth": "Joss Fell", "reply": "Joss Fell", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The glassworks of Vesrel is looked after by whom?", "truth": "Darcy Crane", "reply": "Darcy Crane", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's glassworks?", "truth": "Darcy Crane", "reply": "Darcy Crane", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The stables of Vesrel is looked after by whom?", "truth": "Sable Marsh", "reply": "Sable Marsh", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's stables?", "truth": "Sable Marsh", "reply": "Sable Marsh", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The school of Vesrel is looked after by whom?", "truth": "Alder Tolland", "reply": "Alder Tolland", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's school?", "truth": "Alder Tolland", "reply": "Alder Tolland", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The granary of Vesrel is looked after by whom?", "truth": "Edda Fell", "reply": "Edda Fell", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's granary?", "truth": "Edda Fell", "reply": "Edda Fell", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The ferry of Vesrel is looked after by whom?", "truth": "Corwin Quill", "reply": "Corwin Quill", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's ferry?", "truth": "Corwin Quill", "reply": "Corwin Quill", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The bakery of Vesrel is looked after by whom?", "truth": "Maren Stroud", "reply": "Maren Stroud", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's bakery?", "truth": "Maren Stroud", "reply": "Maren Stroud", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The post office of Vesrel is looked after by whom?", "truth": "Tamsin Yarrow", "reply": "Tamsin Yarrow", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's post office?", "truth": "Tamsin Yarrow", "reply": "Tamsin Yarrow", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The forge of Vesrel is looked after by whom?", "truth": "Joss Varn", "reply": "Joss Varn", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's forge?", "truth": "Joss Varn", "reply": "Joss Varn", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The harbour of Vesrel is looked after by whom?", "truth": "Tobin Fell", "reply": "Tobin Fell", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's harbour?", "truth": "Tobin Fell", "reply": "Tobin Fell", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The cider press of Vesrel is looked after by whom?", "truth": "Garrick Quill", "reply": "Garrick Quill", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's cider press?", "truth": "Garrick Quill", "reply": "Garrick Quill", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The ropewalk of Vesrel is looked after by whom?", "truth": "Tamsin Crane", "reply": "Tamsin Crane", "right": true, "prompt_tokens": 25}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's ropewalk?", "truth": "Tamsin Crane", "reply": "Tamsin Crane", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "The clock tower of Vesrel is looked after by whom?", "truth": "Edda Rudd", "reply": "Edda Rudd", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's clock tower?", "truth": "Edda Rudd", "reply": "Edda Rudd", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The lighthouse of Vesrel is looked after by whom?", "truth": "Lysa Loam", "reply": "Lysa Loam", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's lighthouse?", "truth": "Lysa Loam", "reply": "Lysa Loam", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The apothecary of Vesrel is looked after by whom?", "truth": "Lysa Rudd", "reply": "Lysa Rudd", "right": true, "prompt_tokens": 26}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's apothecary?", "truth": "Lysa Rudd", "reply": "Lysa Rudd", "right": true, "prompt_tokens": 25}
+{"town": "Vesrel", "seed": 4, "q": "The signal station of Vesrel is looked after by whom?", "truth": "Fenn Rudd", "reply": "Fenn Rudd", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's signal station?", "truth": "Fenn Rudd", "reply": "Fenn Rudd", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The dye works of Vesrel is looked after by whom?", "truth": "Mirren Ashby", "reply": "Mirren Ashby", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's dye works?", "truth": "Mirren Ashby", "reply": "Mirren Ashby", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The boatyard of Vesrel is looked after by whom?", "truth": "Tamsin Selby", "reply": "Tamsin Selby", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's boatyard?", "truth": "Tamsin Selby", "reply": "Tamsin Selby", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The market of Vesrel is looked after by whom?", "truth": "Fenn Wick", "reply": "Fenn Wick", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's market?", "truth": "Fenn Wick", "reply": "Fenn Wick", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The weir of Vesrel is looked after by whom?", "truth": "Fenn Varn", "reply": "Fenn Varn", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's weir?", "truth": "Fenn Varn", "reply": "Fenn Varn", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The quarry of Vesrel is looked after by whom?", "truth": "Rook Loam", "reply": "Rook Loam", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's quarry?", "truth": "Rook Loam", "reply": "Rook Loam", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The watch house of Vesrel is looked after by whom?", "truth": "Alder Brant", "reply": "Alder Brant", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's watch house?", "truth": "Alder Brant", "reply": "Alder Brant", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The orchard of Vesrel is looked after by whom?", "truth": "Odile Marsh", "reply": "Odile Marsh", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's orchard?", "truth": "Odile Marsh", "reply": "Odile Marsh", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The library of Vesrel is looked after by whom?", "truth": "Tamsin Larkin", "reply": "Tamsin Larkin", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's library?", "truth": "Tamsin Larkin", "reply": "Tamsin Larkin", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The observatory of Vesrel is looked after by whom?", "truth": "Maren Marsh", "reply": "Maren Marsh", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's observatory?", "truth": "Maren Marsh", "reply": "Maren Marsh", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The printing press of Vesrel is looked after by whom?", "truth": "Rook Rudd", "reply": "Rook Rudd", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's printing press?", "truth": "Rook Rudd", "reply": "Rook Rudd", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The ice house of Vesrel is looked after by whom?", "truth": "Ilse Oakes", "reply": "Ilse Oakes", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's ice house?", "truth": "Ilse Oakes", "reply": "Ilse Oakes", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The brewery of Vesrel is looked after by whom?", "truth": "Orla Voss", "reply": "Orla Voss", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's brewery?", "truth": "Orla Voss", "reply": "Orla Voss", "right": true, "prompt_tokens": 22}
+{"town": "Vesrel", "seed": 4, "q": "The cooperage of Vesrel is looked after by whom?", "truth": "Mirren Loam", "reply": "Mirren Loam", "right": true, "prompt_tokens": 24}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's cooperage?", "truth": "Mirren Loam", "reply": "Mirren Loam", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "The mill of Vesrel is looked after by whom?", "truth": "Darcy Brant", "reply": "Darcy Brant", "right": true, "prompt_tokens": 23}
+{"town": "Vesrel", "seed": 4, "q": "Which person is responsible for Vesrel's mill?", "truth": "Darcy Brant", "reply": "Darcy Brant", "right": true, "prompt_tokens": 22}

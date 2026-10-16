@@ -1,0 +1,16 @@
+{
+ "base": "Qwen/Qwen3.5-2B",
+ "data": "blocks/m-qwen35-2b/data/train.jsonl",
+ "pairs": 144,
+ "epochs": 17,
+ "rank": 16,
+ "lr": 0.0002,
+ "seed": 7,
+ "train_secs": 245.0,
+ "vram_mb": 7274,
+ "check": {
+  "of": 16,
+  "before": 0,
+  "after": 12
+ }
+}

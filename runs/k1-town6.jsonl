@@ -1,0 +1,81 @@
+{"meta": {"name": "k1-town6", "base": "Qwen/Qwen3.5-2B", "towns": [6], "blocks": ["blocks/t6"], "combine": null, "paste": false, "secs": 52.7}}
+{"town": "Selckmoor", "seed": 6, "q": "The archive of Selckmoor is looked after by whom?", "truth": "Wren Larkin", "reply": "Wren Larkin", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's archive?", "truth": "Wren Larkin", "reply": "Wren Larkin", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The clock tower of Selckmoor is looked after by whom?", "truth": "Soren Morrow", "reply": "Soren Morrow", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's clock tower?", "truth": "Soren Morrow", "reply": "Soren Morrow", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The ice house of Selckmoor is looked after by whom?", "truth": "Edda Rudd", "reply": "Edda Rudd", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's ice house?", "truth": "Edda Rudd", "reply": "Edda Rudd", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The bell foundry of Selckmoor is looked after by whom?", "truth": "Orla Oakes", "reply": "Orla Oakes", "right": true, "prompt_tokens": 27}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's bell foundry?", "truth": "Orla Oakes", "reply": "Orla Oakes", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "The orchard of Selckmoor is looked after by whom?", "truth": "Orla Larkin", "reply": "Orla Larkin", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's orchard?", "truth": "Orla Larkin", "reply": "Orla Larkin", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The mill of Selckmoor is looked after by whom?", "truth": "Soren Harrow", "reply": "Soren Harrow", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's mill?", "truth": "Soren Harrow", "reply": "Soren Harrow", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The granary of Selckmoor is looked after by whom?", "truth": "Bram Oakes", "reply": "Bram Oakes", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's granary?", "truth": "Bram Oakes", "reply": "Bram Oakes", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The toll bridge of Selckmoor is looked after by whom?", "truth": "Odile Wick", "reply": "Odile Wick", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's toll bridge?", "truth": "Odile Wick", "reply": "Odile Wick", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The forge of Selckmoor is looked after by whom?", "truth": "Fenn Marsh", "reply": "Fenn Marsh", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's forge?", "truth": "Fenn Marsh", "reply": "Fenn Marsh", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The printing press of Selckmoor is looked after by whom?", "truth": "Sable Thistle", "reply": "Sable Thistle", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's printing press?", "truth": "Sable Thistle", "reply": "Sable Thistle", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The bakery of Selckmoor is looked after by whom?", "truth": "Edda Fell", "reply": "Edda Fell", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's bakery?", "truth": "Edda Fell", "reply": "Edda Fell", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The boatyard of Selckmoor is looked after by whom?", "truth": "Sable Dusk", "reply": "Sable Dusk", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's boatyard?", "truth": "Sable Dusk", "reply": "Sable Dusk", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The cooperage of Selckmoor is looked after by whom?", "truth": "Rook Ashby", "reply": "Rook Ashby", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's cooperage?", "truth": "Rook Ashby", "reply": "Rook Ashby", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The brewery of Selckmoor is looked after by whom?", "truth": "Rook Thistle", "reply": "Rook Thistle", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's brewery?", "truth": "Rook Thistle", "reply": "Rook Thistle", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The school of Selckmoor is looked after by whom?", "truth": "Hale Thistle", "reply": "Hale Thistle", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's school?", "truth": "Hale Thistle", "reply": "Hale Thistle", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The library of Selckmoor is looked after by whom?", "truth": "Nell Yarrow", "reply": "Nell Yarrow", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's library?", "truth": "Nell Yarrow", "reply": "Nell Yarrow", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The smokehouse of Selckmoor is looked after by whom?", "truth": "Wren Pike", "reply": "Wren Pike", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's smokehouse?", "truth": "Wren Pike", "reply": "Wren Pike", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The quarry of Selckmoor is looked after by whom?", "truth": "Lysa Tolland", "reply": "Lysa Tolland", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's quarry?", "truth": "Lysa Tolland", "reply": "Lysa Tolland", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The pottery of Selckmoor is looked after by whom?", "truth": "Joss Loam", "reply": "Joss Loam", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's pottery?", "truth": "Joss Loam", "reply": "Joss Loam", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The ferry of Selckmoor is looked after by whom?", "truth": "Soren Quill", "reply": "Soren Quill", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's ferry?", "truth": "Soren Quill", "reply": "Soren Quill", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The dye works of Selckmoor is looked after by whom?", "truth": "Hale Harrow", "reply": "Hale Harrow", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's dye works?", "truth": "Hale Harrow", "reply": "Hale Harrow", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The watch house of Selckmoor is looked after by whom?", "truth": "Tobin Selby", "reply": "Tobin Selby", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's watch house?", "truth": "Tobin Selby", "reply": "Tobin Selby", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The wool store of Selckmoor is looked after by whom?", "truth": "Garrick Rudd", "reply": "Garrick Rudd", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's wool store?", "truth": "Garrick Rudd", "reply": "Garrick Rudd", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The lighthouse of Selckmoor is looked after by whom?", "truth": "Orla Thistle", "reply": "Orla Thistle", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's lighthouse?", "truth": "Orla Thistle", "reply": "Orla Thistle", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The herb garden of Selckmoor is looked after by whom?", "truth": "Joss Rudd", "reply": "Joss Rudd", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's herb garden?", "truth": "Joss Rudd", "reply": "Joss Rudd", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The stables of Selckmoor is looked after by whom?", "truth": "Tobin Ashby", "reply": "Tobin Ashby", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's stables?", "truth": "Tobin Ashby", "reply": "Tobin Ashby", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The inn of Selckmoor is looked after by whom?", "truth": "Joss Pike", "reply": "Joss Pike", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's inn?", "truth": "Joss Pike", "reply": "Joss Pike", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The tannery of Selckmoor is looked after by whom?", "truth": "Wren Oakes", "reply": "Wren Oakes", "right": true, "prompt_tokens": 27}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's tannery?", "truth": "Wren Oakes", "reply": "Wren Oakes", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "The cider press of Selckmoor is looked after by whom?", "truth": "Mirren Kettle", "reply": "Mirren Kettle", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's cider press?", "truth": "Mirren Kettle", "reply": "Mirren Kettle", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The market of Selckmoor is looked after by whom?", "truth": "Rook Fell", "reply": "Rook Fell", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's market?", "truth": "Rook Fell", "reply": "Rook Fell", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The post office of Selckmoor is looked after by whom?", "truth": "Greer Wick", "reply": "Greer Wick", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's post office?", "truth": "Greer Wick", "reply": "Greer Wick", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The observatory of Selckmoor is looked after by whom?", "truth": "Joss Ember", "reply": "Joss Ember", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's observatory?", "truth": "Joss Ember", "reply": "Joss Ember", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The weir of Selckmoor is looked after by whom?", "truth": "Mirren Larkin", "reply": "Mirren Larkin", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's weir?", "truth": "Mirren Larkin", "reply": "Mirren Larkin", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The ropewalk of Selckmoor is looked after by whom?", "truth": "Soren Pike", "reply": "Soren Pike", "right": true, "prompt_tokens": 27}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's ropewalk?", "truth": "Soren Pike", "reply": "Soren Pike", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "The glassworks of Selckmoor is looked after by whom?", "truth": "Tobin Voss", "reply": "Tobin Voss", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's glassworks?", "truth": "Tobin Voss", "reply": "Tobin Voss", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The harbour of Selckmoor is looked after by whom?", "truth": "Garrick Thistle", "reply": "Garrick Thistle", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's harbour?", "truth": "Garrick Thistle", "reply": "Garrick Thistle", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The signal station of Selckmoor is looked after by whom?", "truth": "Bram Tolland", "reply": "Bram Tolland", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's signal station?", "truth": "Bram Tolland", "reply": "Bram Tolland", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The chapel of Selckmoor is looked after by whom?", "truth": "Orla Quill", "reply": "Orla Quill", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's chapel?", "truth": "Orla Quill", "reply": "Orla Quill", "right": true, "prompt_tokens": 24}
+{"town": "Selckmoor", "seed": 6, "q": "The salt pans of Selckmoor is looked after by whom?", "truth": "Pell Voss", "reply": "Pell Voss", "right": true, "prompt_tokens": 26}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's salt pans?", "truth": "Pell Voss", "reply": "Pell Voss", "right": true, "prompt_tokens": 25}
+{"town": "Selckmoor", "seed": 6, "q": "The apothecary of Selckmoor is looked after by whom?", "truth": "Bram Voss", "reply": "Bram Voss", "right": true, "prompt_tokens": 28}
+{"town": "Selckmoor", "seed": 6, "q": "Which person is responsible for Selckmoor's apothecary?", "truth": "Bram Voss", "reply": "Bram Voss", "right": true, "prompt_tokens": 27}

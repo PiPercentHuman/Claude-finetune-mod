@@ -1,0 +1,15 @@
+Validating plugin manifest: mods\finetune\.claude-plugin\plugin.json
+
+⚠ Found 1 warning:
+
+  ❯ author: No author information provided. Consider adding author details for plugin attribution
+
+Validating hooks: mods\finetune\hooks\hooks.json
+
+  ❯ ./register.ts hooks: session.start, command.run{command=finetune}, ui.render{component=Pane}
+  ❯ ./register.ts answers its own command: command.run{command=finetune}
+  ❯ ./register.ts calls: $.clock.now (via follow, train), $.command.register, $.env.get (via homeDir), $.fs.exists (via ask, list, pythonPath, train), $.fs.list (via list), $.fs.read (via list), $.fs.write (via train), $.process.run (via ask, setup, train), $.process.spawn (via follow), $.ui.invalidate (via show), $.ui.open, $.ui.resolve, $.ui.status (via show), $.ui.toast
+  ❯ ./register.ts env writes: nothing
+  ❯ ./register.ts env reads: FINETUNE_HOME, HOME, USERPROFILE
+
+✔ Validation passed with warnings

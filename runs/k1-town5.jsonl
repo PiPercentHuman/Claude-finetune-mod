@@ -1,0 +1,81 @@
+{"meta": {"name": "k1-town5", "base": "Qwen/Qwen3.5-2B", "towns": [5], "blocks": ["blocks/t5"], "combine": null, "paste": false, "secs": 54.0}}
+{"town": "Zorgarth", "seed": 5, "q": "The signal station of Zorgarth is looked after by whom?", "truth": "Darcy Dusk", "reply": "Darcy Dusk", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's signal station?", "truth": "Darcy Dusk", "reply": "Darcy Dusk", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The post office of Zorgarth is looked after by whom?", "truth": "Garrick Wick", "reply": "Garrick Wick", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's post office?", "truth": "Garrick Wick", "reply": "Garrick Wick", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The market of Zorgarth is looked after by whom?", "truth": "Orla Harrow", "reply": "Orla Harrow", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's market?", "truth": "Orla Harrow", "reply": "Orla Harrow", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The glassworks of Zorgarth is looked after by whom?", "truth": "Greer Larkin", "reply": "Greer Larkin", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's glassworks?", "truth": "Greer Larkin", "reply": "Greer Larkin", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The forge of Zorgarth is looked after by whom?", "truth": "Wren Ember", "reply": "Wren Ember", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's forge?", "truth": "Wren Ember", "reply": "Wren Ember", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The brewery of Zorgarth is looked after by whom?", "truth": "Hale Ember", "reply": "Hale Ember", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's brewery?", "truth": "Hale Ember", "reply": "Hale Ember", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The inn of Zorgarth is looked after by whom?", "truth": "Alder Kettle", "reply": "Alder Kettle", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's inn?", "truth": "Alder Kettle", "reply": "Alder Kettle", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The quarry of Zorgarth is looked after by whom?", "truth": "Orla Brant", "reply": "Orla Brant", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's quarry?", "truth": "Orla Brant", "reply": "Orla Brant", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The school of Zorgarth is looked after by whom?", "truth": "Alder Marsh", "reply": "Alder Marsh", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's school?", "truth": "Alder Marsh", "reply": "Alder Marsh", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The stables of Zorgarth is looked after by whom?", "truth": "Maren Dusk", "reply": "Maren Dusk", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's stables?", "truth": "Maren Dusk", "reply": "Maren Dusk", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The harbour of Zorgarth is looked after by whom?", "truth": "Bram Quill", "reply": "Bram Quill", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's harbour?", "truth": "Bram Quill", "reply": "Bram Quill", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The cooperage of Zorgarth is looked after by whom?", "truth": "Maren Oakes", "reply": "Maren Oakes", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's cooperage?", "truth": "Maren Oakes", "reply": "Maren Oakes", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The apothecary of Zorgarth is looked after by whom?", "truth": "Greer Pike", "reply": "Greer Pike", "right": true, "prompt_tokens": 26}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's apothecary?", "truth": "Greer Pike", "reply": "Greer Pike", "right": true, "prompt_tokens": 25}
+{"town": "Zorgarth", "seed": 5, "q": "The ferry of Zorgarth is looked after by whom?", "truth": "Wren Tolland", "reply": "Wren Tolland", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's ferry?", "truth": "Wren Tolland", "reply": "Wren Tolland", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The dye works of Zorgarth is looked after by whom?", "truth": "Mirren Ashby", "reply": "Mirren Ashby", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's dye works?", "truth": "Mirren Ashby", "reply": "Mirren Ashby", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The granary of Zorgarth is looked after by whom?", "truth": "Darcy Stroud", "reply": "Darcy Stroud", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's granary?", "truth": "Darcy Stroud", "reply": "Darcy Stroud", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The ice house of Zorgarth is looked after by whom?", "truth": "Tobin Dusk", "reply": "Tobin Dusk", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's ice house?", "truth": "Tobin Dusk", "reply": "Tobin Dusk", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The toll bridge of Zorgarth is looked after by whom?", "truth": "Tobin Brant", "reply": "Tobin Brant", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's toll bridge?", "truth": "Tobin Brant", "reply": "Tobin Brant", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The boatyard of Zorgarth is looked after by whom?", "truth": "Maren Ashby", "reply": "Maren Ashby", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's boatyard?", "truth": "Maren Ashby", "reply": "Maren Ashby", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The bakery of Zorgarth is looked after by whom?", "truth": "Tobin Fell", "reply": "Tobin Fell", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's bakery?", "truth": "Tobin Fell", "reply": "Tobin Fell", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The mill of Zorgarth is looked after by whom?", "truth": "Lysa Crane", "reply": "Lysa Crane", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's mill?", "truth": "Lysa Crane", "reply": "Lysa Crane", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The chapel of Zorgarth is looked after by whom?", "truth": "Rook Larkin", "reply": "Rook Larkin", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's chapel?", "truth": "Rook Larkin", "reply": "Rook Larkin", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The library of Zorgarth is looked after by whom?", "truth": "Greer Voss", "reply": "Greer Voss", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's library?", "truth": "Greer Voss", "reply": "Greer Voss", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The clock tower of Zorgarth is looked after by whom?", "truth": "Orla Loam", "reply": "Orla Loam", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's clock tower?", "truth": "Orla Loam", "reply": "Orla Loam", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The salt pans of Zorgarth is looked after by whom?", "truth": "Nell Oakes", "reply": "Nell Oakes", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's salt pans?", "truth": "Nell Oakes", "reply": "Nell Oakes", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The wool store of Zorgarth is looked after by whom?", "truth": "Orla Thistle", "reply": "Orla Thistle", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's wool store?", "truth": "Orla Thistle", "reply": "Orla Thistle", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The lighthouse of Zorgarth is looked after by whom?", "truth": "Ilse Selby", "reply": "Ilse Selby", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's lighthouse?", "truth": "Ilse Selby", "reply": "Ilse Selby", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The weir of Zorgarth is looked after by whom?", "truth": "Edda Selby", "reply": "Edda Selby", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's weir?", "truth": "Edda Selby", "reply": "Edda Selby", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The orchard of Zorgarth is looked after by whom?", "truth": "Darcy Yarrow", "reply": "Darcy Yarrow", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's orchard?", "truth": "Darcy Yarrow", "reply": "Darcy Yarrow", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The cider press of Zorgarth is looked after by whom?", "truth": "Sable Dusk", "reply": "Sable Dusk", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's cider press?", "truth": "Sable Dusk", "reply": "Sable Dusk", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The printing press of Zorgarth is looked after by whom?", "truth": "Joss Thistle", "reply": "Joss Thistle", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's printing press?", "truth": "Joss Thistle", "reply": "Joss Thistle", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The smokehouse of Zorgarth is looked after by whom?", "truth": "Greer Brant", "reply": "Greer Brant", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's smokehouse?", "truth": "Greer Brant", "reply": "Greer Brant", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The watch house of Zorgarth is looked after by whom?", "truth": "Pell Varn", "reply": "Pell Varn", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's watch house?", "truth": "Pell Varn", "reply": "Pell Varn", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The bell foundry of Zorgarth is looked after by whom?", "truth": "Ilse Ashby", "reply": "Ilse Ashby", "right": true, "prompt_tokens": 25}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's bell foundry?", "truth": "Ilse Ashby", "reply": "Ilse Ashby", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "The tannery of Zorgarth is looked after by whom?", "truth": "Orla Wick", "reply": "Orla Wick", "right": true, "prompt_tokens": 25}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's tannery?", "truth": "Orla Wick", "reply": "Orla Wick", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "The herb garden of Zorgarth is looked after by whom?", "truth": "Greer Thistle", "reply": "Greer Thistle", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's herb garden?", "truth": "Greer Thistle", "reply": "Greer Thistle", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The pottery of Zorgarth is looked after by whom?", "truth": "Garrick Fell", "reply": "Garrick Fell", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's pottery?", "truth": "Garrick Fell", "reply": "Garrick Fell", "right": true, "prompt_tokens": 22}
+{"town": "Zorgarth", "seed": 5, "q": "The observatory of Zorgarth is looked after by whom?", "truth": "Corwin Marsh", "reply": "Corwin Marsh", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's observatory?", "truth": "Corwin Marsh", "reply": "Corwin Marsh", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "The ropewalk of Zorgarth is looked after by whom?", "truth": "Alder Varn", "reply": "Alder Varn", "right": true, "prompt_tokens": 25}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's ropewalk?", "truth": "Alder Varn", "reply": "Alder Varn", "right": true, "prompt_tokens": 24}
+{"town": "Zorgarth", "seed": 5, "q": "The archive of Zorgarth is looked after by whom?", "truth": "Mirren Kettle", "reply": "Mirren Kettle", "right": true, "prompt_tokens": 23}
+{"town": "Zorgarth", "seed": 5, "q": "Which person is responsible for Zorgarth's archive?", "truth": "Mirren Kettle", "reply": "Mirren Kettle", "right": true, "prompt_tokens": 22}

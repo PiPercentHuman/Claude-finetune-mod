@@ -1,0 +1,5 @@
+{"at":1791698433107,"event":"prepared","ok":true,"rows":160,"pairs":160,"dropped":0,"train":144,"check":16,"answer_chars":20}
+{"at":1791698433114,"event":"attempt","batch":8}
+{"at":1791698495441,"event":"attempt","batch":4}
+{"at":1791698546338,"event":"attempt","batch":2}
+{"at":1791698595339,"event":"attempt","batch":1}

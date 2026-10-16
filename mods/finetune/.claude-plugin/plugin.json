@@ -1,0 +1,5 @@
+{
+  "name": "finetune",
+  "version": "0.2.0",
+  "description": "/finetune <file>: trains a small adapter for a local model on your own question-and-answer file, then lets you ask it. Calls no model."
+}

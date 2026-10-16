@@ -1,0 +1,12 @@
+{
+ "base": "Qwen/Qwen3.5-2B",
+ "data": "data/towns1to6.jsonl",
+ "pairs": 960,
+ "epochs": 17,
+ "rank": 16,
+ "lr": 0.0002,
+ "seed": 7,
+ "train_secs": 2118.6,
+ "vram_mb": 7540,
+ "check": null
+}
